@@ -8,6 +8,7 @@ package chapter8;
  *
  * @author Lenovo S540
  */
+// Fig. 8.10: Book.java
 public enum Book {
     JHTP("Java How to Program", "2015"),
     CHTP("C How to Program", "2013"),
