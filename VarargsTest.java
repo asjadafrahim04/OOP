@@ -8,6 +8,7 @@ package chapter7;
  *
  * @author Lenovo S540
  */
+// Fig. 7.20: VarargsTest.java
 public class VarargsTest {
 
     public static double average(double... numbers) {
