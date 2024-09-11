@@ -8,6 +8,7 @@ package chapter8;
  *
  * @author Lenovo S540
  */
+// Fig. 8.9: EmployeeTest.java
 public class EmployeeTest {
 
     public static void main(String[] args) {
