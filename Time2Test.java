@@ -8,6 +8,7 @@ package chapter8;
  *
  * @author Lenovo S540
  */
+// Fig. 8.6: Time2Test.java
 public class Time2Test {
 
     public static void main(String[] args) {
