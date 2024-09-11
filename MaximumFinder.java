@@ -8,6 +8,7 @@ package Chapter6;
  *
  * @author HP
  */
+// Fig. 6.10: MethodOverload.java
 import java.util.Scanner;
 
 public class MaximumFinder {
