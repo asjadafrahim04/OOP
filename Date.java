@@ -8,6 +8,7 @@ package chapter8;
  *
  * @author Lenovo S540
  */
+// Fig. 8.7: Date.java
  public class Date {
 
     private int month;
