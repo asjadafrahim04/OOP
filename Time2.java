@@ -8,7 +8,7 @@ package chapter8;
  *
  * @author Lenovo S540
  */
-
+// Fig. 8.5: Time2.java
 public class Time2 {
     private int hour; 
     private int minute; 
