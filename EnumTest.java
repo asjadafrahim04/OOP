@@ -8,6 +8,7 @@ package chapter8;
  *
  * @author Lenovo S540
  */
+// Fig. 8.11: EnumTest.java
 import java.util.EnumSet;
 
 public class EnumTest {
