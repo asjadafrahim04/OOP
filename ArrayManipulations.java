@@ -8,6 +8,7 @@ package chapter7;
  *
  * @author Lenovo S540
  */
+// Fig. 7.22: ArrayManipulations.java
 import java.util.Arrays;
 
 public class ArrayManipulations {
