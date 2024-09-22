@@ -101,12 +101,12 @@ public class EmployeeManagementSystem {
         Scanner input = new Scanner(System.in);
         int choice = 0;
 
-        // Adding some default employees for testing
+        
         employeeManager.addEmployee("Ali", 1, "Founder", 50000);
         employeeManager.addEmployee("Ahmed", 2, "CEO", 45000);
         employeeManager.addEmployee("Karim", 3, "Manager", 60000);
 
-        // Main menu
+        
         while (choice != 5) {
             System.out.println("\nEmployee Management System:");
             System.out.println("1. Display all employees");
