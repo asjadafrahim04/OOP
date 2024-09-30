@@ -9,7 +9,7 @@ package chapter8;
  * @author Lenovo S540
  */
 // Fig. 8.8: Employee.java
-public class Employee {
+public class Employee2 {
 
     private String firstName;
     private String lastName ;
